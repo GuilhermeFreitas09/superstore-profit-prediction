@@ -3,3 +3,8 @@
 
 # Ignorar todos os arquivos PKL
 **/*.pkl
+
+
+.DS_Store
+
+.ipynb_checkpoints/
